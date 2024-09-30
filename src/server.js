@@ -22,7 +22,10 @@ const app = express();
 
 // Middlewares
 
-app.use(cors());
+app.use(cors({
+    origin: true,               // Reflect the requester's origin in Access-Control-Allow-Origin
+    credentials: true           // Allow cookies (credentials) to be sent
+}));
 app.use(cookieParser());
 app.use(express.json());
 app.use(compression());
