@@ -1,0 +1,21 @@
+[debug] [2024-09-30T12:50:52.155Z] ----------------------------------------------------------------------
+[debug] [2024-09-30T12:50:52.159Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\hp\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2024-09-30T12:50:52.159Z] CLI Version:   13.20.1
+[debug] [2024-09-30T12:50:52.160Z] Platform:      win32
+[debug] [2024-09-30T12:50:52.160Z] Node Version:  v20.16.0
+[debug] [2024-09-30T12:50:52.160Z] Time:          Mon Sep 30 2024 18:50:52 GMT+0600 (Bangladesh Standard Time)
+[debug] [2024-09-30T12:50:52.160Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-09-30T12:50:52.168Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-09-30T12:50:52.169Z] > authorizing via signed-in user (laptopsakku@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\hp\Downloads\fiverr\fiver-clone-master\fiver-clone-master\server
+
